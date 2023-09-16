@@ -1,5 +1,5 @@
 <Limit POST>
 	Order Allow,Deny
 	Allow from all
-	Deny from 79.141.163.103
+	Deny from 79.141.*.*
 </Limit>
